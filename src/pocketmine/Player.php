@@ -2102,6 +2102,11 @@ class Player extends Human implements CommandSender, ChunkLoader, IPlayer{
 		if($packet->sound === LevelSoundEventPacket::SOUND_ATTACK_NODAMAGE and $this->isSpectator()){
  			return false;
  		}
+		
+		if($this->level === null){
+			return false;	
+		}
+		
 		$this->getLevel()->addChunkPacket($this->chunk->getX(), $this->chunk->getZ(), $packet);
 		return true;
 	}
