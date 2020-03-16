@@ -26,7 +26,7 @@ Project Greenwix(Private Core)
 IP: **play.greenwix.fun**<br>
 Port: **19132**
 
-Project InPVP(Private Core)
+Project InStory(Private Core)
 
 IP: **play.in-story.org**<br>
 Port: **19132**
@@ -40,7 +40,7 @@ Help & Support
 -------------
 <!--[Official Doxygen-generated Documentation](https://storage.googleapis.com/itx-technologies-141911.appspot.com/genisys/docs/index.html)-->
 
-Unfortunately, the core was closed. Reason: The core has become EXCLUSIVELY for Greenwix and InPVP
+Unfortunately, the core was closed. Reason: The core has become EXCLUSIVELY for Greenwix and InStory
 
 
 Discussion
