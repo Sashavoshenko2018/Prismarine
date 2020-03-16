@@ -1,7 +1,7 @@
 DISCONTINUED || Prismarine [![Build Status](https://travis-ci.org/PrismarineMC/Prismarine.svg?branch=mcpe1.1)](https://travis-ci.org/PrismarineMC/Prismarine)
 ===================
 
-__An server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x__
+__This is an archive on server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x__
 
 
 Introduction
@@ -21,17 +21,23 @@ Can I test this before I download it?
 -------------
 Yes, you can. There are two servers based on this server software.<br>
 
+Project Greenwix(Private Core)
 IP: **play.greenwix.fun**<br>
 Port: **19132**
 
+Project InPVP(Private Core)
 IP: **play.in-story.org**<br>
+Port: **19132**
+
+Project LiteWix(Public Core)(My Server)
+IP: **45.138.72.131**
 Port: **19132**
 
 Help & Support
 -------------
 <!--[Official Doxygen-generated Documentation](https://storage.googleapis.com/itx-technologies-141911.appspot.com/genisys/docs/index.html)-->
 
-If you have any issues with Prismarine, do not be afraid to open the issue, we will try to help you 😀
+Unfortunately, the core was closed. Reason: The core has become EXCLUSIVELY for Greenwix and InPVP
 
 
 Discussion
