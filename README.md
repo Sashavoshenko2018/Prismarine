@@ -1,4 +1,4 @@
-Prismarine [![Build Status](https://travis-ci.org/PrismarineMC/Prismarine.svg?branch=mcpe1.1)](https://travis-ci.org/PrismarineMC/Prismarine)
+DISCONTINUED || Prismarine [![Build Status](https://travis-ci.org/PrismarineMC/Prismarine.svg?branch=mcpe1.1)](https://travis-ci.org/PrismarineMC/Prismarine)
 ===================
 
 __An server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x__
