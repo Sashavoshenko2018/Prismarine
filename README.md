@@ -22,15 +22,18 @@ Can I test this before I download it?
 Yes, you can. There are two servers based on this server software.<br>
 
 Project Greenwix(Private Core)
+
 IP: **play.greenwix.fun**<br>
 Port: **19132**
 
 Project InPVP(Private Core)
+
 IP: **play.in-story.org**<br>
 Port: **19132**
 
 Project LiteWix(Public Core)(My Server)
-IP: **45.138.72.131**
+
+IP: **45.138.72.131**<br>
 Port: **19132**
 
 Help & Support
